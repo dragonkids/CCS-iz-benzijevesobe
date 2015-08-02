@@ -1,7 +1,7 @@
 {
     "room": "EDM Qluster",
     "author": "Benzi",
-    "css": "https://ssl.benzi.io/code/qluster/css/style.css",
+    "css": "https://raw.githubusercontent.com/dragonkids/CCS-iz-benzijevesobe/master/benziccs.ccs",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
